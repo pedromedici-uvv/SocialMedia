@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/API/reactivities.db
+/API/reactivities.db-shm
+/API/reactivities.db-wal
+/API/appsettings.json
+/API/appsettings.Development.json
